@@ -1,5 +1,5 @@
 # Cloud ERP
-Realize The Management Process/n
+Realize The Management Process
 -> Customer Relationship Management
 -> Sales Quotation
 -> Sales Contract
