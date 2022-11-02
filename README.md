@@ -1,2 +1,15 @@
-# CloudERP
-实现管理流程“客户关系管理-> 销售报价-> 销售合同-> 生产计划-> 研发设计-> 采购订单-> 加工制造-> 质检入库-> 发货出库-> 财务核算-> 售后服务”的高效循环运作！管理者能够对客户资源、销售情况、采购情况、库存存货、生产派单情况、加工过程、物料使用情况、生产成本核算、车间、生产工艺、财务情况、员工工作情况等均做到了如指掌；帮助企业管理者及时了解各部门的业务细节，做到高效管理，时时把握。 ERP软件标准版技术平台是基于Java的高性能MVC框架，组件化的可扩展技术路线，符合JAAS的安全架构。系统基于当前主流J2EE多层架构，纯B/S模式，开发采用以安全和高性能所著称的JAVA语言，实现了动态的Web、Internet计算，跨平台运行，支持远程办公和异地办公，非常适合企业异地分支机构、出差人员协同办公。客户端无需安装任何软件，无需专业技术人员维护，极大的降低了企业办公成本，使用浏览器即可实现全球办公。  同时，客户表现层采用当前最新的AJAX技术，页面拥有“异步回送、局部更新”的特性，大大提高了用户体验。
+# Cloud ERP
+Realize The Management Process
+-> Customer Relationship Management
+-> Sales Quotation
+-> Sales Contract
+-> Production Planning
+-> R&D design
+-> Purchase Order
+-> Production
+-> Quality Inspection Warehousing
+-> Supply and warehousing
+-> Financial Accounting
+-> After Sales
+"Efficient Cycle Operation of Service"!
+Managers Understand Customer Resources, Sales, Procurement, Inventory, Production Dispatch, Processing, Material Usage, Production Cost Accounting, Workshop, Production Process, Financial Situation, Employee Work, etc.; Enterprise Managers are Responsible for Each Department's Business. Helps to Keep The Balance of Details, Achieve Efficient Management, and Realize it from Time to Time. The ERP Software Standard Version Technology Platform is a Java-Based High-Performance MVC Framework, A Componentized and Scalable Technology Route and Compatible With The JAAS Security Architecture. The System is The Current Mainstream J2EE. Multi-Layer Architecture, Based on Pure B/S Mode, Using Java Language for its Security and High Performance Realizes Familiar, Dynamic Web and Internet Computing, Supports Cross-Platform Operation, Remote Office, and Remote. Offices, Branch Offices of Enterprises in Different Places and Employees on Business Trips Are Very Suitable for Working Together. The Client Does Not Need to Install Any Software, and Does Not Need Professional and Technical Personnel for Maintenance, Which Greatly Reduces The Work Cost of The Corporate Office, and Can Use a Browser to Achieve The Global Office. At The Same Time, The Client Presentation Layer Adopts The Latest AJAX Technology, and The Page Features "Asynchronous Return and Partial Update", Which Greatly Improves The User Experience.
